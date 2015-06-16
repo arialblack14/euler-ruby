@@ -1,0 +1,1 @@
+These are the solutions to the first 3 (for now) euler problems using Ruby.
